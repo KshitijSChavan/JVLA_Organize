@@ -2,4 +2,7 @@
 JVLA_Organising python files
 
 # example usage
-reorganize.py 25-xyz/
+reorganize.py folder_location/
+same for other file - but for this one, skipping "images" folder is hardcoded.
+
+
